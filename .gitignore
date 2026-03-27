@@ -1,0 +1,7 @@
+# Ignore compiled binaries and lab files
+*.8xp
+*.8xv
+*.txt
+*.png
+*.gif
+*.otc
